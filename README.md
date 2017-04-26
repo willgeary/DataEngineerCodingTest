@@ -10,7 +10,7 @@ This repository includes:
 
 4. `solution.json`: json file of the scraped company listings data.
 
-5. `Python Notebook.ipynb`: A python notebook documenting all of my work and troubleshooting, as well as some exploratory data visualizations, including a map.
+5. `Python Notebook.ipynb`: A python notebook documenting all of my work and troubleshooting, as well as some exploratory data visualizations, including a map. Please view the html version of the Python Notebook [**here**](http://nbviewer.jupyter.org/github/willgeary/DataEngineerCodingTest/blob/master/Python%20Notebook.ipynb) which renders the interactive map embedded within the notebook.
 
 # Dependencies
 Python libraries for data wrangling:
