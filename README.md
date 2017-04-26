@@ -14,17 +14,17 @@ This repository includes:
 
 # Dependencies
 Python libraries for data wrangling:
-- pandas
-- re
-- dateutil
+- `pandas`
+- `re`
+- `dateutil`
 
 Python libraries for web scraping:
-- BeautifulSoup
-- json
-- urllib2
+- `BeautifulSoup`
+- `json`
+- `urllib2`
 
 Python libraries for visualization:
-- matplotlib
-- seaborn
+- `matplotlib`
+- `seaborn`
 
 [Carto](https://carto.com/) for mapping.
