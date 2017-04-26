@@ -2,12 +2,12 @@
 
 This repository includes:
 
-1. The CSV test solution script: `CSV_test_solution.py`
+1. `CSV_test_solution.py`: the CSV test solution script.
 
-2. A "solution.csv" file of the cleansed "test.csv" data.
+2. `solution.csv`: csv file of the cleansed "test.csv" data.
 
-3. The web scrape test solution script: `web_scrape_test_solution.py`
+3. `web_scrape_test_solution.py`: The web scrape test solution script.
 
-4. A "solution.json" file of the scraped company listings data.
+4. `solution.json`: json file of the scraped company listings data.
 
-5. A python notebook documenting all of my work and troubleshooting, as well as some exploratory data visualizations and map: `Python Notebook.ipynb`
+5. `Python Notebook.ipynb`: A python notebook documenting all of my work and troubleshooting, as well as some exploratory data visualizations, including a map.
