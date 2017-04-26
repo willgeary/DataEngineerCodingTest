@@ -11,3 +11,20 @@ This repository includes:
 4. `solution.json`: json file of the scraped company listings data.
 
 5. `Python Notebook.ipynb`: A python notebook documenting all of my work and troubleshooting, as well as some exploratory data visualizations, including a map.
+
+# Dependencies
+Python libraries for data wrangling:
+- pandas
+- re
+- dateutil
+
+Python libraries for web scraping:
+- BeautifulSoup
+- json
+- urllib2
+
+Python libraries for visualization:
+- matplotlib
+- seaborn
+
+[Carto](https://carto.com/) for mapping.
